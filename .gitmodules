@@ -1,3 +1,6 @@
 [submodule "Elasticsearch-Playground"]
 	path = Elasticsearch-Playground
 	url = https://github.com/AlexYoungZ/Elasticsearch-Playground.git
+[submodule "Logstash-playground"]
+	path = Logstash-playground
+	url = https://github.com/AlexYoungZ/Logstash-playground.git

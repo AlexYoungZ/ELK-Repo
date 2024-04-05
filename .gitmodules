@@ -4,3 +4,6 @@
 [submodule "Logstash-playground"]
 	path = Logstash-playground
 	url = https://github.com/AlexYoungZ/Logstash-playground.git
+[submodule "Kibana-playground"]
+	path = Kibana-playground
+	url = https://github.com/AlexYoungZ/Kibana-playground.git

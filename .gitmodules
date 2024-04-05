@@ -1,0 +1,3 @@
+[submodule "Elasticsearch-Playground"]
+	path = Elasticsearch-Playground
+	url = https://github.com/AlexYoungZ/Elasticsearch-Playground.git
